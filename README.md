@@ -11,9 +11,8 @@ Create a new frame.
 
 ### Step 2:
 Select any one preset size of your choice.
-
-### Step 3:
-Select the shapes you need.
+d
+.v
 
 ### Step 4:
 Import images as needed.
